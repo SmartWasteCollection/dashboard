@@ -1,3 +1,10 @@
+## [0.1.91](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.90...v0.1.91) (2023-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @vuelidate/validators to v2.0.2 ([6ecd140](https://github.com/SmartWasteCollection/dashboard/commit/6ecd1406b3f5fe518964eef72c1794ccf743a614))
+
 ## [0.1.90](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.89...v0.1.90) (2023-03-30)
 
 
