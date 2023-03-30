@@ -1,3 +1,10 @@
+## [0.1.90](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.89...v0.1.90) (2023-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @vuelidate/core to v2.0.2 ([f18288b](https://github.com/SmartWasteCollection/dashboard/commit/f18288b878b7f978d7a016537299e316ba628ae5))
+
 ## [0.1.89](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.88...v0.1.89) (2023-03-28)
 
 
