@@ -1,3 +1,10 @@
+## [0.1.113](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.112...v0.1.113) (2023-05-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency vue-router to v4.2.2 ([6566172](https://github.com/SmartWasteCollection/dashboard/commit/656617251337688821589561adb19b600195d1fb))
+
 ## [0.1.112](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.111...v0.1.112) (2023-05-19)
 
 
