@@ -1,3 +1,10 @@
+## [0.1.123](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.122...v0.1.123) (2023-06-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency dotenv to v16.2.0 ([0489754](https://github.com/SmartWasteCollection/dashboard/commit/04897540aa59027c468f9a9ec4385ac66cac3f6a))
+
 ## [0.1.122](https://github.com/SmartWasteCollection/dashboard/compare/v0.1.121...v0.1.122) (2023-06-14)
 
 
