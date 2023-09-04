@@ -31,8 +31,8 @@
     "vue-router": "4.2.4"
   },
   "devDependencies": {
-    "@babel/core": "7.22.11",
-    "@babel/eslint-parser": "7.22.11",
+    "@babel/core": "7.22.15",
+    "@babel/eslint-parser": "7.22.15",
     "@commitlint/cli": "17.7.1",
     "@commitlint/config-conventional": "17.7.0",
     "@vue-leaflet/vue-leaflet": "0.10.1",
