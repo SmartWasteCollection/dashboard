@@ -27,7 +27,7 @@
     "random-latitude": "1.0.1",
     "random-longitude": "1.0.1",
     "socket.io-client": "4.8.3",
-    "vue": "3.5.41",
+    "vue": "3.5.42",
     "vue-router": "5.3.0"
   },
   "devDependencies": {
