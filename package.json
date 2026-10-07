@@ -28,7 +28,7 @@
     "random-longitude": "1.0.1",
     "socket.io-client": "4.8.4",
     "vue": "3.5.43",
-    "vue-router": "5.3.1"
+    "vue-router": "5.4.0"
   },
   "devDependencies": {
     "@babel/core": "7.29.7",
